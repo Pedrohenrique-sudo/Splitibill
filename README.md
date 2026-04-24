@@ -26,7 +26,7 @@ O projeto foi desenvolvido com a filosofia de **Minimalismo Moderno com Foco em 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/splitbill.git
+git clone https://github.com/Pedrohenrique-sudo/splitbill.git
 cd splitbill
 
 # Instale as dependências
