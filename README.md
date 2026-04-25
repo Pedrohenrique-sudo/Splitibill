@@ -25,9 +25,8 @@ O projeto foi desenvolvido com a filosofia de **Minimalismo Moderno com Foco em 
 ### Instalação
 
 ```bash
-# Clone o repositório
-git clone https://github.com/Pedrohenrique-sudo/splitbill.git
-cd splitbill
+# baixe o zip do projeto, e coloque e extraia o projeto em uma pasta
+e rode os comandos abaixo 
 
 # Instale as dependências
 pnpm install
