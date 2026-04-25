@@ -33,6 +33,14 @@ pnpm install
 
 # Inicie o servidor de desenvolvimento
 pnpm dev
+
+# em caso de erros, rode os comandos abaixo um de cada vez
+
+pnpm approve-builds @tailwindcss/oxide esbuild
+
+pnpm add -D lightningcss-android-arm64
+
+pnpm dev
 ```
 
 A aplicação estará disponível em `http://localhost:3000`
