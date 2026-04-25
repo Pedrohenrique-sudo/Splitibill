@@ -25,7 +25,7 @@ O projeto foi desenvolvido com a filosofia de **Minimalismo Moderno com Foco em 
 ### Instalação
 
 ```bash
-# baixe o zip do projeto, e coloque e extraia o projeto em uma pasta
+ baixe o zip do projeto, e coloque e extraia o projeto em uma pasta
 e rode os comandos abaixo 
 
 # Instale as dependências
