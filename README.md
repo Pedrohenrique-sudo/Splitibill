@@ -1,6 +1,6 @@
 # SplitBill - Divisor de Contas
 
-Uma aplicação web moderna e intuitiva para dividir contas e calcular gorjetas de forma rápida e sem complicações.
+Uma aplicação web moderna e intuitiva para dividir contas e calcular gorjetas de forma rápida e sem complicações
 
 ## 🎯 Funcionalidades
 
