@@ -9,7 +9,7 @@ Uma aplicação web moderna e intuitiva para dividir contas e calcular gorjetas 
 - **Gerenciamento de Pessoas**: Adicione ou remova participantes dinamicamente
 - **Nomes Personalizados**: Identifique cada pessoa com um nome customizado
 - **Resumo Detalhado**: Visualize o breakdown completo da conta e quanto cada pessoa deve pagar
-- **Interface Responsiva**: Funciona perfeitamente em desktop, tablet e mobile
+- **Interface Responsiva**: Funciona perfeitamente em desktop, tablet e mobil
 
 ## 🎨 Design
 
